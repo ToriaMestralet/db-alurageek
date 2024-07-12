@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Mudkip",
+      "precio": " 145,00",
+      "url": "https://i.pinimg.com/564x/8c/02/37/8c0237515dcabc987d6d41dae43fc015.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Bulbasaur",
+      "precio": " 575,00",
+      "url": "https://i.pinimg.com/564x/e2/93/91/e293917c094ee680447aba4e3cac30b1.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Onix",
+      "precio": " 382,00",
+      "url": "https://i.pinimg.com/564x/cd/fa/84/cdfa84a39ac991b20ccd75e6b287c2d1.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Pikachu",
+      "precio": " 785,00",
+      "url": "https://i.pinimg.com/564x/70/02/b9/7002b94709b8954908ffaf490bfe8ecb.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Halloween Bulbasaur",
+      "precio": " 642,00",
+      "url": "https://i.pinimg.com/564x/0c/87/2d/0c872d0f7c1e0c66d5dd4138ceaf6475.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Cubone",
+      "precio": " 298,00",
+      "url": "https://i.pinimg.com/564x/32/ca/93/32ca93f164365c8ec16cbb4b13bf2b2d.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Teddiursa",
+      "precio": " 432,00",
+      "url": "https://i.pinimg.com/564x/82/a1/8b/82a18b9c2375b6a3413d1d977acedb8e.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Psyduck",
+      "precio": " 590,00",
+      "url": "https://i.pinimg.com/736x/49/55/97/495597cd448d743dca477391b4cfcaec.jpg"
+    }
+  ]
+}
